@@ -11,3 +11,5 @@ Docker
 
 
 http://webdriver.io/guide/plugins/webdrivercss.html
+
+https://github.com/staltz/cycle
