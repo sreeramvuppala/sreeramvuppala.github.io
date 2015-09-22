@@ -13,3 +13,5 @@ Docker
 http://webdriver.io/guide/plugins/webdrivercss.html
 
 https://github.com/staltz/cycle
+
+http://es6-features.org/
