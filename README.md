@@ -1,5 +1,4 @@
 # sreeramvuppala.github.io
-My blog
 
 Reactive Programming - Stalz
 
@@ -17,3 +16,5 @@ https://github.com/staltz/cycle
 http://es6-features.org/
 
 http://reactivex.io/learnrx/
+
+https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.6zieujgc0
