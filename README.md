@@ -24,3 +24,5 @@ http://www.datchley.name/promise-patterns-anti-patterns/
 https://joshbedo.github.io/JS-Design-Patterns/
 
 http://jstherightway.org/
+
+https://gist.github.com/allenwb/53927e46b31564168a1d
