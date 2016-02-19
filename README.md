@@ -22,3 +22,5 @@ https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78cc
 http://www.datchley.name/promise-patterns-anti-patterns/
 
 https://joshbedo.github.io/JS-Design-Patterns/
+
+http://jstherightway.org/
